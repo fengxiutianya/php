@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+#autoload
+autoload/vendor
+autoload/composer.lock
+# phpunit
+phpunit/vendor
+phpunit/composer.lock
